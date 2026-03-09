@@ -1,0 +1,10 @@
+name: r_shiny_code
+title:
+username: ryan-lo-chun-pun
+account: ryan-lo-chun-pun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16846000
+bundleId: 11681974
+url: https://ryan-lo-chun-pun.shinyapps.io/r_shiny_code/
+version: 1

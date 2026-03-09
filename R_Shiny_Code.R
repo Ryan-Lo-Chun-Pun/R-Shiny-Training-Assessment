@@ -1,6 +1,6 @@
 # Install and Load required packages
-# if(!require(pacman)) install.packages("pacman")
-# pacman::p_load(shiny, dplyr, ggplot2, tidyr, readxl, writexl, zip, DT)
+if(!require(pacman)) install.packages("pacman")
+pacman::p_load(shiny, dplyr, ggplot2, tidyr, readxl, writexl, zip, DT, magrittr)
 
 ui <- fluidPage(
 
